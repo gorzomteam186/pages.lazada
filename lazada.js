@@ -1,14 +1,12 @@
 <script>
 var links = [ 
-    "https://www.kmi.id/",
-    "https://www.trablisa.es/",
-    "https://www.sumberkarya.id/",
-    "https://sim.assalaam.id/",
-    "https://damkar.cirebonkota.go.id/",
-    "https://respic.zacatecas.gob.mx/",
-    "https://www.onlinenewton.com/",
-    "https://www.sidompu.id/",
-    "https://www.maa.ac.in/",
+    "https://madepkulon.perbanas.ac.id/",
+    "https://elearning.umb.ac.id/",
+    "https://absensi.luwukab.go.id/",
+    "https://spmb.perbanas.ac.id/",
+    "https://elearning.iainkediri.ac.id/",
+    "https://jdih.rri.go.id/",
+    "https://2021.catradeforum.org/",
 ]; 
  
 for (var i = 0; i < links.length; i++) { 
